@@ -7,6 +7,7 @@
 // @match        *://*.icloud.com/*
 // @match        *://*.icloud.com.cn/*
 // @grant        GM_setClipboard
+// @license      Apache Licence 2.0
 // ==/UserScript==
 
 (function () {
