@@ -1,5 +1,5 @@
 # copyReminder
-复制导出网页版icloud中的reminder列表
+复制导出网页版icloud中的reminder列表的油猴脚本，安装油猴插件以后安装此脚本即可使用。
 
 ## 概要
 用于ios icloud 复制提醒事项
@@ -9,7 +9,7 @@
 
 # copyReminder
 
-Copy and export the reminder list from the web version of iCloud
+Copy and export the reminder list in the web version of iCloud. After installing the Tampermonkey plugin, install this script to use it.
 
 ## Summary
 Used for ios icloud to copy reminders
